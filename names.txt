@@ -1,1 +1,2 @@
-boss,fyan27,Yan,Feiyun
+boss,fyan27,Yan, Feiyun
+role, NetID, LastName, FirstName
