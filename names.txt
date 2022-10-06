@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 boss,fyan27,Yan, Feiyun
 role, NetID, LastName, FirstName
+=======
+boss,fyan27,Yan,Feiyun
+employee,xqiao24,Qiao,Xilin
+>>>>>>> cd7980661004b3da872ed92481c4358ae0fd5308
